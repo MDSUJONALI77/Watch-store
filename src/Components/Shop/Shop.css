@@ -1,0 +1,62 @@
+.shop-container{
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	margin-left: 62px;
+	margin-right: 50px;
+}
+
+.shop-heading{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 75px;
+
+}
+
+.watch-container{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+.review-container{
+	margin-top: 145px;
+	background-color: #D4AF37;
+
+}
+.btn{
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.review-container h3{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.buy-btn{
+	background-color: #20201f;
+	font-size: 17px;
+	border: none;
+	border-radius: 12px;
+	padding: 10px;
+	color: beige;
+	margin-left: 5px;
+}
+
+.buy-btn:hover{
+	color: rgb(49, 228, 13);
+}
+
+.delete-btn{
+	background-color: #20201f;
+	font-size: 15px;
+	border: none;
+	border-radius: 12px;
+	padding: 10px;
+	color: beige;
+	margin-right: 5px;
+}
+
+.delete-btn:hover{
+	color: rgb(231, 86, 86)
+}
