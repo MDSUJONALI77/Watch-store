@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Watch Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To see preview [Click here...](https://63b29e0a8592e636e949ea6f--radiant-bombolone-61c903.netlify.app/).
+ 
+Or copy this link: https://63b29e0a8592e636e949ea6f--radiant-bombolone-61c903.netlify.app/
 
 ## Available Scripts
 
